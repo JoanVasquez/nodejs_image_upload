@@ -13,7 +13,7 @@
   "keywords": [
     "nodejs",
     "multer",
-    "hbs"
+    "ejs"
   ],
   "author": "Joan Vasquez",
   "license": "MIT",
