@@ -1,0 +1,29 @@
+{
+  "name": "nodejs_image_upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoanVasquez/nodejs_image_upload.git"
+  },
+  "keywords": [
+    "nodejs",
+    "multer",
+    "hbs"
+  ],
+  "author": "Joan Vasquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoanVasquez/nodejs_image_upload/issues"
+  },
+  "homepage": "https://github.com/JoanVasquez/nodejs_image_upload#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "multer": "^1.3.1"
+  }
+}
